@@ -1,11 +1,11 @@
 # Fool's Goal
 
 ## Contents
-[Introduction](#introduction)
-[How To Play](#how-to-play)
-[Mermaid](#mermaid)
-[Links](#links)
-[Walkthrough](#walkthrough)
+- [Introduction](#introduction)
+- [How To Play](#how-to-play)
+- [Mermaid](#mermaid)
+- [Links](#links)
+- [Walkthrough](#walkthrough)
 
 ## Me
 Hi, I’m Ethan, a computer science student. This project started as part of a course assignment but also serves as a stepping stone in my journey to making my own games. My friend and I share an interest in game development. We both aspire to create a big game and have even collaborated on projects together.
