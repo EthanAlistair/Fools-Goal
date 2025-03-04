@@ -8,7 +8,7 @@
 - [Walkthrough](#walkthrough)
 
 ## Me
-Hi, I’m Ethan, a computer science student. This project started as part of a course assignment but also serves as a stepping stone in my journey to making my own games. My friend and I share an interest in game development. We both aspire to create a big game and have even collaborated on projects together.
+Hi, I’m Ethan, a computer science student. This project started as part of a course assignment but also as a way for me to practice and gain hands-on experience in game development. My friend and I share an interest in game development. We both aspire to create a big game and have even collaborated on projects together.
 
 ## My game
 This is a text-based horror RPG set in a mysterious mansion filled with disturbing secrets. As the protagonist, you’re searching for your missing daughter, only to uncover gruesome experiments and unsettling truths. Explore, solve puzzles, and survive as you uncover the fate of your daughter.
