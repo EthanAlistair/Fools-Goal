@@ -1,0 +1,59 @@
+You carefully lift the chest's heavy lid, the sound of the creaking hinges echoing in the quiet room. Among the scattered belongings, one item immediately commands your attention: a jar, large and imposing. The glass is dark, almost black, with intricate etchings swirling along its surface like runes of an ancient language. The design seems intentional, as if it was crafted with care, but there’s something off about it.
+
+                                                                                         
+                                     ▓▓▓▒▒                                               
+                                    ▒█░▓░▒  ░ ░█▒                                        
+                                           ▒ ░░░░░░░░▓█▓                                 
+                                     █▓             ▒    ▒  ▒                            
+                                    ▓█▓▓████▓           ▒░▒▒░░░░  ▒▒▒█                   
+                                   ██░░▒░▒▒▒▒▒▓████░             ▒▒ ░                    
+                                  ▒▓ ░░░▒▒▒▒▓▒░▓▓▓▓▓█▒▓ ██             ░ █               
+                                 ▓█░░░▒░▒░▒▒▒▒▒▒░▒▒▓▒▒▓▒▓▓▒▓▓▒▓██ █    ▓  ░              
+                                ▒░ ░▒░▒▒▓▒▒▒▒▒▓▓▒░▒▒▒▒▒▒▒▒▒▒▒▓▒████    ▒▓▓  ▒            
+                                █ ▓██░▓▓██▓▓▓▓▒▓░▓░░▒▒▒▒▒▒░░▒░▓██▓▓██ █  ▒ ░ ▓           
+                               ▓█▒▒   ▓   ░██████▒▒▓▒▓░░░░░░░███░▒░▒▓░▒ █  █  ░          
+                             ▒░█   █▓█▓     ▒   ██▒▒▒▒▒░░░░░▓██░░░░▒▓█▓▓                 
+                            ▓███░░█ █████████     ██░ ░   ░███    ▒▒▒▓▒▒▒█    ░▓  ░      
+                           ▒ ▓██ █░▓  ▓▓█▓██▓█████░▓  █▒█ ▓█▒░ ██  ▒▒▒▒▓▓█▓█ ░   ░       
+                         ░█ █   █▒▒██▒▓▒█ ░░ █████▒██▓▒ ░██▓ ██░███  ░█▓▓▓███▒ ▒  ░      
+                        ▒█▒▒█▒ ▓░ ██ ▓█▒░ ░ █░▒▓░  ██▒░▒██░ ▒░▒█  ▒██ ░░▓▒▒▒░▒█      ░ ░ 
+                        █░██▓░█▒█░▒█████▓██████ ██▒█▒█ ▓█░ ██▓ █░█ █▒██░▒▒▒▒▓▓███    █   
+                       ██████░█▓███   ███▒▒█ █▓ █▓█ ▒ ▓█░ █▓██ ███░█  ██░░▒▓▒▓▒░▒ ░░     
+                      ▒▓▒ ▒  ▓▓██   ▓   ██ ███  ██▓█ ▓█  ▓█░░██▓▓▓▓█▒█▒███ ▒▒▒░▒█        
+                     ████▓▒████▒ ▒█▒█ █ ██ ▓ ▓███ ▓ ██  ████  ▒ ██▒█░▓ ▒ ███   ░░        
+                   ██▓▓▒██ █▒██     ░ ░ ██████ █ █ ██  █ ▒▓███▓█  ██████▒▓ ███▒          
+                  ▒ ██▒  ░█░█▓██ ████ █  ░██ ▓█░█ ██  ████▓▒░▒▓██  ░██▓██▒████           
+                 █▓█ ░█▒██  ████    ▓ █▒█░░  ▓░█ ██░░░▓▓██████░▒███  ▒▒█▓█▒ █▒           
+                ▒▒█      █▓█▒   ██▒██ █  ████░▓ ██░ ░███▓▒▒██▒█▓▒▓░█▓ ███ █▒░            
+               ███   ███  ██░██  █ ░ ██ ▒▓█▓█▒ ██░░    ▓█████▓█ ███░▒██ ░▓▓              
+              ███  ████ ▒██  ▒▓█  ██▒░ ▓██ ░ ░██░░   ██▓  ▓▒ ▓ █▒▓░███▓█░█▓              
+             ░█░░ ▓▓▒█████  █ ██   █  ███ ▒ ▒██░    ███████▒█▓██ ██ ███▓█▓               
+            ██   █████     █  ░███░  ███ █ ▒██▒  ░ ▒█████ █ ███▓ █░▓▒ █                  
+          ███ █ █ ▒░▓ ▒█████     ░ ████░█ ▒█▓░  ░░▒▒▒▒█ ████ █ █▒░  █▒█                  
+          ██ █░█░█▓▓▓▓██▒░▓▓██▒█████ █▓▓ ▒█▒    ░▒░░ ░ ██▒███ ███████                    
+         ▓ ░▒▒█▓ ▒▒▓██ ▓▓▒▓▓██▒▒ █ ██ █ ▓█▒░   ▒▓▒▒█▒  ▓░ ▓█░██▓█▒ ██                    
+        ░░░░ ░ ▒ █▓░ ▓░░▓▓  ▒▒██████ █ ▒█▒   ░░▒ ▒░░█▓█▓▒██▒ ▓█▒█ █                      
+       ▒▒░▓▓░ ░▒▒░▒░ ▒█░ █▒█▒░█ ░▓▓▓█ ▒█▒   ░▒▒▒█░▒▒█░▒▓░░░ ▒▒▒ ███                      
+      ░░▒▒▒▒▒░░ ░ ▒▓▓░ ▒░█▓  █▓███▒░ ▒█▓░  ░ ▒█ ▓▓▓▒░▓▓▓▓▒░▒██▒                          
+       ▒▒▓█▒   ░▒▒▒▓  ░░    ██   █▒ ▒█░   ░▒▒░ ░▒▒▓░▒▒▓▒▓░▒██░ ░                         
+    ░░░ ░▒▓▓▒▒▒▒░░▒░▒▒▒▓░▒▒░   ██  ▒█░    ▒▒░▒▒▒▒▒▒▓▒▒▓░▒▒██ ░                           
+        ░▒▓▓▓▓▓▒░░░ ░░░▒ ░▒▒░▒░  ▒▓▓░   ░░░░░▒▒▒▒▒░▒▒▒█▒▓▓█░                             
+ █         ▓▒▒▓████▓▓▓▒█▒▓▓▓▓▓  ░▓▓░░ ░░░░▒░░    ▒░██▒▓▓██                               
+             ░░▒▓▒▓███▓▓▒▓▒▒   ▒▓▓░     ░░ ▓▒██████▓▒▒▓█▓░░░                             
+       ▓░         ░▒░▒▒▓▓▒░░░ ▓▒▓   ░░░  ▒▒█▓█▓▓▒▒▓▒▒▒▓▓░ ░░                             
+          ▒░          ░      ▒▓▓░  ░▒▒▒▒░▓▒▒▓▓░▒░▒░░▒█▒░ ░                               
+            ░▓░░            █░▒   ░▒▒▓░░░░░▒▒░░░▒░░▓█░                                   
+               ▒█▒▒        █▒▒░░░ ░▒▒░░▒░▒░░▒░▒▒░░░▒░ ░ █                                
+                  ▒█▓▒    █░░    ░░░▒▒░░▒▒ ░   ░░░▒░ ░▒                                  
+                      ▒███▓░      ░▓▓█▓▓▒▒░░░░░░░░▒▒▒░░                                  
+                         ███░        ▒▓██▒▓▒▒▒▒▒▓▒▒▓█▒                                   
+                             ░▓         ▒▓███▓█▓▒▒▒▒▒                                    
+                                ░▓░        ░▒▒▒▓░▒▒░                                     
+                                     ▒           ▓▒                                      
+                                        ▒       ░░                                       
+                                         ▒██                                             
+                                                                                         
+
+The jar is sealed tightly, but you can feel a strange, magnetic pull as you approach it. There’s a faint, sickly glow pulsing from within, barely visible through the opaque glass. You try to make sense of what lies inside, but it’s shrouded in shadow, its form elusive, like a memory you can’t quite grasp.
+
+Beside the jar, scattered personal effects of hers lay forgotten. Letters, trinkets, a photo, but they’re nothing compared to the jar. Its presence is undeniable, its dark energy a silent promise of something yet to unfold. It has to be connected to her. And somehow, you know it’s the key to defeating her.
